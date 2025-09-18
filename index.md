@@ -110,3 +110,10 @@ layout: default
 　　最后提醒一句：无论你选择实体卡还是 eSIM，记得提前了解套餐有效期和流量使用规则，避免“流量一夜清零”的尴尬。
 
 　　希望这份指南能帮你轻松搞定南非通信问题，祝你旅途愉快！
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [South Africa eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/south-africa-data-plans)
